@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.pusing</groupId>
+    <groupId>com.quieta</groupId>
     <artifactId>oauth2login</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>oauth2login</name>
